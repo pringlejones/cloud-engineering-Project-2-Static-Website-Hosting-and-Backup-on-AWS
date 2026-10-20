@@ -17,9 +17,11 @@ Deployed an optimized, highly available static web hosting solution utilizing Am
 ## 📸 Deployment & Compliance Verification
 
 ### Live Production URL:
-<img width="1440" height="900" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/08c83bbb-363e-413d-a084-b239b364e2fd" />
+<img width="1440" height="900" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/2e1b0c39-af8a-4474-a4ad-ba045490e14e" />
 
 ### Lifecycle Management Policy Configuration:
-<img width="1440" height="900" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/47452626-23e3-42ba-8d8c-fdfce80fcb24" />
+<img width="1440" height="860" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f2f3b600-8af9-42e2-880c-2cabba46602e" />
+
+
 
 
