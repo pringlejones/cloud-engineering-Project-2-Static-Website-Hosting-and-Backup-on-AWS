@@ -14,3 +14,12 @@ Deployed an optimized, highly available static web hosting solution utilizing Am
 ## 📁 Repository Structure
 * `upload.py` - The automated Boto3 directory synchronizer tool.
 * `README.md` - Technical project breakdown and architectural insights.
+## 📸 Deployment & Compliance Verification
+
+### Live Production URL:
+<img width="1440" height="900" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/08c83bbb-363e-413d-a084-b239b364e2fd" />
+
+### Lifecycle Management Policy Configuration:
+<img width="1440" height="900" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/47452626-23e3-42ba-8d8c-fdfce80fcb24" />
+
+
