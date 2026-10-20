@@ -1,4 +1,4 @@
-# cloud engineering Project 2 Static Website Hosting and Backup on AWS
+# cloud engineering Project:2 Static Website Hosting and Backup on AWS
 # Project 2: Automated Static Website Hosting & Compliant Backup Architecture
 
 ## 📌 Project Overview
