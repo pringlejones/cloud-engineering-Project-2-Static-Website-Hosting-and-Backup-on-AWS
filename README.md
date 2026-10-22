@@ -12,9 +12,10 @@ Deployed an optimized, highly available static web hosting solution utilizing Am
 * **Automated Data Lifecycle Optimization:** Designed an automated lifecycle transition rule targeting noncurrent object versions. Old backups are automatically moved to **Glacier Flexible Retrieval** cold storage after **30 days** to dramatically minimize cloud storage expenses.
 * **Programmatic DevOps Pipeline (`upload.py`):** Coded a reusable deployment automation engine using the official **AWS SDK for Python (Boto3)**. The script recursively crawls local deployment directories and syncs production updates straight to the target S3 environment.
 
-## 📁 Repository Structure
-* `upload.py` - The automated Boto3 directory synchronizer tool.
+## 📁 Repository Artifacts
 * `README.md` - Technical project breakdown and architectural insights.
+* `upload.py` - The automated Boto3 directory synchronizer tool.
+
 ## 📸 Deployment & Compliance Verification
 
 ### Live Production URL:
